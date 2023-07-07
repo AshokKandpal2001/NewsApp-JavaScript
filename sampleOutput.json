@@ -1,0 +1,32 @@
+ {
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "2023 NBA Draft Big Board: Final prospect rankings and the players our experts feel strongest about - CBS Sports",
+        "description": "Kansas' Gradey Dick sneaks into the top 10 of the final consensus rankings of the CBS Sports NBA Draft experts",
+        "url": "https://www.cbssports.com/nba/news/2023-nba-draft-big-board-final-prospect-rankings-and-the-players-our-experts-feel-strongest-about/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/19/12c21e8b-6a0b-417f-bfd9-2de71d9f2402/thumbnail/1200x675/27215229acf3a7878b3aac02c89cbde8/usatsi-20046203-1.jpg",
+        "publishedAt": "2023-06-20T04:57:00Z",
+        "content": "The finish line is in sight, folks. The 2023 NBA Draft is now just days away, and so to celebrate the special occasion, today -- as we do every year -- we're releasing the final CBS Sports Prospect R… [+6430 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Championship or MAJOR DISAPPOINTMENT! - Bobby Marks on the Bradley Beal to the Suns trade - ESPN",
+        "description": "ESPN NBA front office insider Bobby Marks joins SportsCenter with Scott Van Pelt to detail Draymond Green declining his $27.6M player option and Bradley Beal...",
+        "url": "https://www.youtube.com/watch?v=3x01l487XEk",
+        "urlToImage": "https://i.ytimg.com/vi/3x01l487XEk/maxresdefault.jpg",
+        "publishedAt": "2023-06-20T03:39:27Z",
+        "content": null
+      }
+    ]
+  }
