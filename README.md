@@ -1,3 +1,12 @@
+# Download the zip file and extract it to your device
+# This Project uses React JS, JavaScript, HTML, CSS, and API calls 
+
+# Description
+Use this project to watch daily news according to your preference
+This Project is completely responsive and works with different screen devices like your Laptop, Mobile or Tablet.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
